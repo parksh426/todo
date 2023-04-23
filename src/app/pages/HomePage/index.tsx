@@ -34,7 +34,7 @@ export function HomePage() {
       id: '1',
       content: 'first todo',
       completed: false,
-      editing: false,
+      editing: true,
     },
     {
       id: '2',
